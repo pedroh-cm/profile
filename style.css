@@ -677,4 +677,17 @@ footer span a:hover{
         font-size: 23px;
         line-height: 38px;
     }
+    .redes {
+        display: inline-block;
+        background: crimson;
+        color: #fff;
+        font-size: 20px;
+        font-weight: 500;
+        padding: 10px 30px;
+        margin-top: 20px;
+        border-radius: 6px;
+        border: 2px solid crimson;
+        transition: all 0.3s ease;
+        width: 20rem; 
+    }
 }
