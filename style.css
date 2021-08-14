@@ -689,5 +689,6 @@ footer span a:hover{
         border: 2px solid crimson;
         transition: all 0.3s ease;
         width: 20rem; 
+        text-align: center;
     }
 }
